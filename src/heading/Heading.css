@@ -1,0 +1,20 @@
+.nav-bar img{
+    width: 200px;
+    height: 100px;}
+.nav-bar{
+    justify-content: center;
+    text-align: center;
+}
+.nav-bar-item{
+
+    background-color: black;
+}
+
+
+.nav-bar-item a{
+    margin:5px 10px;
+    text-decoration:none;
+    padding:5px 10px;
+    font-size:30px;
+    color:white;
+}
